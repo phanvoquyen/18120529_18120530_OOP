@@ -1,0 +1,2 @@
+https://www.tutorialspoint.com/when-to-use-extern-in-c-cplusplus
+http://www.cplusplus.com/forum/beginner/89434/
